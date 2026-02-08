@@ -1,5 +1,11 @@
 # 💫 About Me:
-I'm a Front-End Developer currently focused on building landing pages and web platforms using React and Next.js. I’ve collaborated with organizations like Intechmom and Fundmadre, where I helped design and develop their websites.<br><br>At Fundmadre, I created the main site and worked on the concept for a donation zone integrated with third-party services like Wompi (still in progress). I've also participated in projects involving quote calculators, such as a system to estimate the cost of windows and full house closures.<br><br>Always open to collaboration and learning.
+I'm a Front-End Developer with 4+ years of experience building scalable, high-performance web applications using React, TypeScript, and Next.js. I focus on component-based architecture, responsive design, web performance, and accessibility, aiming to deliver high-quality user experiences.<br><br>
+
+I’ve collaborated with organizations like Intechmom and Fundmadre, contributing to the design and development of their websites. At Fundmadre, I built the main site and worked on the concept of a donation zone integrated with third-party services like Wompi (still in progress). I’ve also participated in projects involving quote calculators, such as systems to estimate the cost of windows and full house closures.<br><br>
+
+Professionally, I’ve worked on reusable component systems, landing pages, headless CMS integrations, and internal platforms that reduced delivery times and technical debt. I also have complementary experience with backend technologies like NestJS and PostgreSQL, participating in architectural decisions to ensure scalability and long-term maintainability.<br><br>
+
+Always open to collaboration and continuous learning.
 
 
 ## 🌐 Socials:
